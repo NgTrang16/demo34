@@ -11,7 +11,7 @@ public class bai5_1 {
 
         float score = 9.5F;
         System.out.println("diem: " + score);
-	String name = "The anh an cut";
+	String name = "The anh nhu con cac";
         System.out.println(name);
 
     }
